@@ -4,8 +4,6 @@ This repository contains expanded tutorials and python notebooks to accompany th
 
 <img src="images/book_cover.jpg" alt="drawing" width="300"/> 
 
-<br>
-
 ## About this repository
 
 Within the eight chapter folders, you will find nine total tutorials (chapter 3 has two separate tutorials) displayed in markdown format, accompanied by a Python notebook that runs through the calculations. The tutorials are expanded versions of the tutorials that appear at the end of chapters 2-9 in the published book. These tutorials are designed to provide the most value if you follow these steps.
