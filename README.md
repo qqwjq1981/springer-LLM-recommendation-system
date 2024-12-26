@@ -42,7 +42,7 @@ Key Features:
 
 ## About the author
 
-* **Jianqiang (Jay) Wang** is an seasoned data science professional with a Ph.D. in Statistics and extensive experience across academia and industry. Formerly a Principal Applied Science Manager at Microsoft, Jay has also held multiple roles, including Visiting Professor at Colorado State University, Data Scientist at Twitter, Head of Advertising Technology at Snap, and Director of Data Science at Kuaishou. His expertise spans backend algorithms for search advertising, customer growth, inventory management, and data science education, with a particular focus on internet advertising and emerging retail business models.
+* **Jianqiang (Jay) Wang** is an seasoned data science professional with a Ph.D. in Statistics and extensive experience across academia and industry. Formerly a Principal Applied Science Manager at Microsoft, Jay has also held multiple roles, including Visiting Professor at Colorado State University, Data Scientist at Twitter, Lead Data Scientist at Snap, and Director of Data Science at Kuaishou. His expertise spans backend algorithms for search advertising, customer growth, inventory management, and data science education, with a particular focus on internet advertising and emerging retail business models.
 
 
 [Linkedin](https://www.linkedin.com/in/jay-jianqiang-wang-78a6726/)
