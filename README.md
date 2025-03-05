@@ -1,4 +1,4 @@
-# Large Language Models: A Deep Dive
+# Building Recommender Systems Using Large Language Models
 
 This repository contains expanded tutorials and python notebooks to accompany the book Building Recommender Systems Using Large Language Models by Jay.
 
