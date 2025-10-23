@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td style="width: 360px; vertical-align: top;">
-      <img src="./images/frontcover.jpg" alt="Book Cover" width="340" style="border: 1px solid #ccc; border-radius: 4px;" />
+    <td style="width: 560px; vertical-align: top;">
+      <img src="./images/frontcover.jpg" alt="Book Cover" width="540" style="border: 1px solid #ccc; border-radius: 4px;" />
     </td>
     <td style="vertical-align: middle; padding-left: 20px;">
       <p>This repository contains expanded tutorials and Python notebooks to accompany the book <em>Building Recommender Systems Using Large Language Models</em> by Jay.</p>
