@@ -2,13 +2,14 @@
 
 <table>
   <tr>
-    <td style="width: 360px; vertical-align: top;">
-      <img src="./images/frontcover.jpg" alt="Book Cover" width="340" style="border-radius: 4px;" />
+    <td style="width: 560px; vertical-align: top;">
+      <img src="./images/frontcover.jpg" alt="Book Cover" width="540" style="border: 1px solid #ccc; border-radius: 4px;" />
     </td>
     <td style="vertical-align: middle; padding-left: 20px;">
       <p>This repository contains expanded tutorials and Python notebooks to accompany the book <em>Building Recommender Systems Using Large Language Models</em> by Jay.</p>
       <p>
-        <a href="https://www.amazon.com/dp/B0FX7N91FQ/ref=tmm_kin_swatch_0" target="_blank" style="font-weight: bold; font-size: 16px; color: #d73a49;">
+        <a href="https://www.amazon.com/dp/B0FX7N91FQ/ref=tmm_kin_swatch_0" target="_blank" 
+           style="background-color: #fff3b0; padding: 6px 10px; border-radius: 6px; font-weight: bold; text-decoration: none; color: #000;">
           📘 Order now from Amazon
         </a>
       </p>
@@ -19,6 +20,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ## About this repository
