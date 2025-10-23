@@ -2,19 +2,21 @@
 
 <table>
   <tr>
-    <td style="width: 180px; vertical-align: top;">
-      <img src="./images/frontcover.jpg" alt="Book Cover" width="160" style="border: 1px solid #ccc; border-radius: 4px;" />
+    <td style="width: 560px; vertical-align: top;">
+      <img src="./images/frontcover.jpg" alt="Book Cover" width="540" style="border: 1px solid #ccc; border-radius: 4px;" />
     </td>
-    <td style="vertical-align: top; padding-left: 20px;">
+    <td style="vertical-align: middle; padding-left: 20px;">
       <p>This repository contains expanded tutorials and Python notebooks to accompany the book <em>Building Recommender Systems Using Large Language Models</em> by Jay.</p>
       <p>
-        <a href="https://www.amazon.com/dp/B0FX7N91FQ/ref=tmm_kin_swatch_0" target="_blank">📘 Order now from Amazon</a><br>
-        <a href="https://www.linkedin.com/in/jay-jianqiang-wang-78a6726/" target="_blank">🔗 LinkedIn</a><br>
-        <a href="https://mentorcruise.com/mentor/jaywang/" target="_blank">🎓 MentorCruise</a>
+        <a href="https://www.amazon.com/dp/B0FX7N91FQ/ref=tmm_kin_swatch_0" target="_blank" 
+           style="background-color: #fff3b0; padding: 6px 10px; border-radius: 6px; font-weight: bold; text-decoration: none; color: #000;">
+          📘 Order now from Amazon
+        </a>
       </p>
     </td>
   </tr>
 </table>
+
 
 
 ## About this repository
@@ -55,4 +57,6 @@ Readers will be equipped to design, implement, and evaluate LLM-powered recommen
 
 **Jianqiang (Jay) Wang** is a seasoned data science professional with a Ph.D. in Statistics and extensive experience across academia and industry. Formerly a Principal Applied Science Manager at Microsoft, Jay has also served as Visiting Professor at Colorado State University, Data Scientist at Twitter, Lead Data Scientist at Snap, and Director of Data Science at Kuaishou. His expertise spans backend algorithms for search advertising, customer growth, inventory optimization, and ML education—particularly in internet platforms and retail innovation.
 
-[LinkedIn](https://www.linkedin.com/in/jay-jianqiang-wang-78a6726/) | [MentorCruise](https://mentorcruise.com/mentor/jaywang/) | [Order now from Amazon](https://www.amazon.com/dp/B0FX7N91FQ/ref=tmm_kin_swatch_0)
+[LinkedIn](https://www.linkedin.com/in/jay-jianqiang-wang-78a6726/) | [MentorCruise](https://mentorcruise.com/mentor/jaywang/) 
+
+[Order now from Amazon](https://www.amazon.com/dp/B0FX7N91FQ/ref=tmm_kin_swatch_0)
