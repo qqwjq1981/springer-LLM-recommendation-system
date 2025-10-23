@@ -13,10 +13,6 @@
           📘 Order now from Amazon
         </a>
       </p>
-      <p>
-        <a href="https://www.linkedin.com/in/jay-jianqiang-wang-78a6726/" target="_blank">🔗 LinkedIn</a><br>
-        <a href="https://mentorcruise.com/mentor/jaywang/" target="_blank">🎓 MentorCruise</a>
-      </p>
     </td>
   </tr>
 </table>
@@ -61,4 +57,6 @@ Readers will be equipped to design, implement, and evaluate LLM-powered recommen
 
 **Jianqiang (Jay) Wang** is a seasoned data science professional with a Ph.D. in Statistics and extensive experience across academia and industry. Formerly a Principal Applied Science Manager at Microsoft, Jay has also served as Visiting Professor at Colorado State University, Data Scientist at Twitter, Lead Data Scientist at Snap, and Director of Data Science at Kuaishou. His expertise spans backend algorithms for search advertising, customer growth, inventory optimization, and ML education—particularly in internet platforms and retail innovation.
 
-[LinkedIn](https://www.linkedin.com/in/jay-jianqiang-wang-78a6726/) | [MentorCruise](https://mentorcruise.com/mentor/jaywang/) | [Order now from Amazon](https://www.amazon.com/dp/B0FX7N91FQ/ref=tmm_kin_swatch_0)
+[LinkedIn](https://www.linkedin.com/in/jay-jianqiang-wang-78a6726/) | [MentorCruise](https://mentorcruise.com/mentor/jaywang/) 
+
+[Order now from Amazon](https://www.amazon.com/dp/B0FX7N91FQ/ref=tmm_kin_swatch_0)
