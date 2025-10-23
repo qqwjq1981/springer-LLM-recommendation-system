@@ -1,18 +1,20 @@
 # Building Recommender Systems Using Large Language Models
 
-<div style="display: flex; align-items: center; gap: 20px; margin-top: 20px; margin-bottom: 20px; flex-wrap: wrap;">
-
-  <div style="flex: 0 0 auto;">
-    <img src="./images/frontcover.jpg" alt="Book Cover" style="max-width: 180px; height: auto; border: 1px solid #ccc; border-radius: 4px;" />
-  </div>
-
-  <div style="flex: 1; min-width: 250px;">
-    <p>This repository contains expanded tutorials and Python notebooks to accompany the book <em>Building Recommender Systems Using Large Language Models</em> by Jay.</p>
-    <p>
-      <a href="https://www.amazon.com/dp/B0FX7N91FQ/ref=tmm_kin_swatch_0" target="_blank">📘 Order now from Amazon</a>
-    </p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td style="width: 180px; vertical-align: top;">
+      <img src="./images/frontcover.jpg" alt="Book Cover" width="160" style="border: 1px solid #ccc; border-radius: 4px;" />
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <p>This repository contains expanded tutorials and Python notebooks to accompany the book <em>Building Recommender Systems Using Large Language Models</em> by Jay.</p>
+      <p>
+        <a href="https://www.amazon.com/dp/B0FX7N91FQ/ref=tmm_kin_swatch_0" target="_blank">📘 Order now from Amazon</a><br>
+        <a href="https://www.linkedin.com/in/jay-jianqiang-wang-78a6726/" target="_blank">🔗 LinkedIn</a><br>
+        <a href="https://mentorcruise.com/mentor/jaywang/" target="_blank">🎓 MentorCruise</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 ## About this repository
