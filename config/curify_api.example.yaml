@@ -1,0 +1,22 @@
+# curify_api.example.yaml
+#
+# Template for the API configuration used by every notebook in this repo.
+# Copy this file to the repo root as `curify_api.yaml` and fill in your keys,
+# OR point the CURIFY_API_YAML environment variable at a copy somewhere else.
+# The real file (with your secrets) is ignored by .gitignore — never commit it.
+#
+# The loader at tutorials/_config.py searches, in order:
+#   1. $CURIFY_API_YAML
+#   2. <repo_root>/curify_api.yaml
+#   3. <repo_root>/config/curify_api.yaml
+#   4. ./../../../Curify/curify_api.yaml  (legacy author-local path)
+
+openai:
+  # Required for every chapter. Get one at https://platform.openai.com/api-keys
+  api_key: "sk-..."
+
+deepseek:
+  # Used only by Chapter 3's LLM_based_Data_Labeling notebook to compare
+  # GPT-4o-mini vs DeepSeek classification agreement. Skip the DeepSeek
+  # cells if you don't want to sign up. Get one at https://platform.deepseek.com
+  api_key: "sk-..."

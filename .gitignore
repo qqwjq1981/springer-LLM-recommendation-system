@@ -1,0 +1,20 @@
+# API config — copy config/curify_api.example.yaml here, fill in your keys,
+# and never commit the populated file.
+/curify_api.yaml
+/config/curify_api.yaml
+
+# Local data (see README "Data files" section for download instructions)
+Data/
+tutorials/Data/
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Misc OS / editor
+.DS_Store
+.idea/
+.vscode/
