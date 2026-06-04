@@ -66,7 +66,7 @@ Each notebook expects its data under a `Data/` directory sibling to `tutorials/`
 |---|---|---|
 | Ch1 `understanding_content_embedding_retrieval`, Ch3 `LLM_based_Data_Labeling`, Ch3 `News_Recommendation_Learning_to_Rank` | `Data/news-recommendation/news_summary.tsv` | Download from [Kaggle: News Summary](https://www.kaggle.com/datasets/sunnysai12345/news-summary) and place at the path shown |
 | Ch2 `From_Traditional_to_LLM_Recommendation_Systems`, Ch4 `fine-tuning_LLMs_for_recommendation` | `Data/ml-1m/ratings.dat` | Download [MovieLens 1M](https://grouplens.org/datasets/movielens/1m/) and unzip so `Data/ml-1m/ratings.dat` exists |
-| Ch6 `Multi-Modal_Retrieval_with_MS-COCO` | `captions_train2017.json` | Download [COCO 2017 annotations](https://cocodataset.org/#download) (`annotations_trainval2017.zip`) and either place it at the path the notebook references or update the `data_dir` constant near the top of the notebook to your local copy |
+| Ch6 `Multi-Modal_Retrieval_with_MS-COCO` | `Data/coco-2017/annotations/captions_train2017.json` | Download [COCO 2017 annotations](https://cocodataset.org/#download) (`annotations_trainval2017.zip`) and unzip so the file lands at the path shown. If you already have COCO somewhere else, set `COCO_DATA_DIR=/your/path/to/annotations` and re-run. |
 
 ### 3. Running the notebooks
 
